@@ -68,6 +68,10 @@ A feature-rich scientific calculator built with Python's tkinter library, provid
 - Toggle between Degrees and Radians for trigonometric functions
 - Current mode is displayed on the calculator
 
+## GUI of the App
+
+![App](https://raw.githubusercontent.com/MunishUpadhyay/Materials/refs/heads/main/Screenshot%202025-07-20%20004351.png)
+
 ## File Structure
 
 ```
