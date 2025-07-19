@@ -53,7 +53,7 @@ A feature-rich scientific calculator built with Python's tkinter library, provid
 2. Click number buttons (0-9) to input numbers
 3. Use operation buttons (+, -, ×, ÷) for basic arithmetic
 4. Press "=" or Enter key to calculate result
-5. Use "C" to clear all, "CE" to clear current entry
+5. Use "C" to clear all
 
 ### Scientific Functions
 1. **Trigonometric**: Enter a number, then click sin/cos/tan
@@ -131,10 +131,6 @@ The calculator includes error handling for:
 - Include unit tests for new functions
 - Update README for new features
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built with Python's tkinter library
@@ -151,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions, suggestions, or bug reports:
-- Email: your.email@example.com
+- Email: munishupadhyay183@gmail.com
 - GitHub Issues: [Create an issue](https://github.com/MunishUpadhyay/Scientific-Calculator/issues)
 
 ---
