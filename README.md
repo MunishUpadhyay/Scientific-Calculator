@@ -79,8 +79,10 @@ scientific-calculator/
 │
 ├── calculator.py          # Main calculator application
 ├── README.md             # This file
+```
 
 ### Styling Options
+
 - Modify colors, fonts, and sizes in the GUI initialization
 - Change button layout by adjusting grid positions
 - Add themes by creating color schemes
